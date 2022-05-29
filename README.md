@@ -12,7 +12,7 @@ Let’s move our site closer to production grade by adding Permissions and Postg
 Open Console in Main Project Directory.
 
 ```
-$ git clone git@github.com:Farraj007/Django-API.git
+$ git clone git@github.com:Farraj007/Blog-api.git
 $ cd drf-api-permissions-postgres
 $ python manage.py runserver
 on your browser http://127.0.0.1:8000
